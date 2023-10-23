@@ -1,0 +1,16 @@
+C:\Examples\task68\obj\Debug\net6.0\task68.GlobalUsings.g.cs
+C:\Examples\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\Examples\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\Examples\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\Examples\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\Examples\task68\bin\Debug\net6.0\task68.exe
+C:\Examples\task68\bin\Debug\net6.0\task68.deps.json
+C:\Examples\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\Examples\task68\bin\Debug\net6.0\task68.dll
+C:\Examples\task68\bin\Debug\net6.0\ref\task68.dll
+C:\Examples\task68\bin\Debug\net6.0\task68.pdb
+C:\Examples\task68\obj\Debug\net6.0\task68.dll
+C:\Examples\task68\obj\Debug\net6.0\ref\task68.dll
+C:\Examples\task68\obj\Debug\net6.0\task68.pdb
+C:\Examples\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
