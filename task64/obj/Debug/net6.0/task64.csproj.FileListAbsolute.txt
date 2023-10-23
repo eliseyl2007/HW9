@@ -1,0 +1,16 @@
+C:\Examples\task64\bin\Debug\net6.0\task64.exe
+C:\Examples\task64\bin\Debug\net6.0\task64.deps.json
+C:\Examples\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+C:\Examples\task64\bin\Debug\net6.0\task64.dll
+C:\Examples\task64\bin\Debug\net6.0\ref\task64.dll
+C:\Examples\task64\bin\Debug\net6.0\task64.pdb
+C:\Examples\task64\obj\Debug\net6.0\task64.GlobalUsings.g.cs
+C:\Examples\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+C:\Examples\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+C:\Examples\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+C:\Examples\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+C:\Examples\task64\obj\Debug\net6.0\task64.dll
+C:\Examples\task64\obj\Debug\net6.0\ref\task64.dll
+C:\Examples\task64\obj\Debug\net6.0\task64.pdb
+C:\Examples\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
